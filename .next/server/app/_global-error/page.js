@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c037ff42._.js")
+R.c("server/chunks/ssr/Documents_GitHub_Trad2_trading-dashboard_af234316._.js")
+R.c("server/chunks/ssr/a9020_next_dist_b4401135._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__deb41c99._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__6d03f3a5._.js")
+R.c("server/chunks/ssr/a9020_next_dist_ce3753a7._.js")
+R.c("server/chunks/ssr/Documents_GitHub_Trad2_trading-dashboard_src_app_6e216ab4._.js")
+R.c("server/chunks/ssr/9526c_trading-dashboard__next-internal_server_app__global-error_page_actions_7b4c4984.js")
+R.m(77975)
+module.exports=R.m(77975).exports

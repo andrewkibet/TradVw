@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/a9020_next_dist_compiled_52000876._.js",
+  "static/chunks/a9020_next_dist_shared_lib_9686cf3c._.js",
+  "static/chunks/a9020_next_dist_client_8798b80f._.js",
+  "static/chunks/a9020_next_dist_08043de1._.js",
+  "static/chunks/a9020_next_app_e4512bc1.js",
+  "static/chunks/[next]_entry_page-loader_ts_a4bad086._.js",
+  "static/chunks/a9020_react-dom_0b4c9c9e._.js",
+  "static/chunks/a9020_328e735d._.js",
+  "static/chunks/[root-of-the-server]__ade5d252._.js",
+  "static/chunks/Documents_GitHub_Trad2_trading-dashboard_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-Documents_GitHub_Trad2_trading-dashboard_pages__app_2c68b716._.js"
+])

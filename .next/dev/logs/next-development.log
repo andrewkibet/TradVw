@@ -1,0 +1,6 @@
+[00:00:04.784] Server  LOG     ✓ Ready in 4.2s
+[00:00:04.796] Server  WARN    ⚠ Cross origin request detected from 192.168.81.1 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:06:37.603] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\USER\Documents\GitHub\Trad2\trading-dashboard\src\app'
+[00:06:37.612] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\USER\Documents\GitHub\Trad2\trading-dashboard\src\app'
+[00:06:37.620] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\USER\Documents\GitHub\Trad2\trading-dashboard\src\app'
