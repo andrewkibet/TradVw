@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",
-  basePath: "/TradVw",
-  assetPrefix: "/TradVw/",
+  /* config options here */
 };
 
 export default nextConfig;

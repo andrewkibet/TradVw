@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 import { ToolbarTool } from '@/types';
-import { toolbarTools } from '@/utils/mockData';
-import { TOOLBAR_WIDTH, TOOLBAR_EXPANDED_WIDTH } from '@/utils/constants';
+import { toolbarTools, TOOLBAR_WIDTH, TOOLBAR_EXPANDED_WIDTH } from '@/utils/mockData';
+import { TOOLBAR_WIDTH as TW } from '@/utils/constants';
 
 interface LeftToolbarProps {
   activeTool: string | null;
